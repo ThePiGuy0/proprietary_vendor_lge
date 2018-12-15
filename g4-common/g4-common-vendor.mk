@@ -88,6 +88,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4-common/proprietary/lib/libmorpho_image_stab31.so:system/lib/libmorpho_image_stab31.so \
     vendor/lge/g4-common/proprietary/lib/libmorpho_superzoom.so:system/lib/libmorpho_superzoom.so \
     vendor/lge/g4-common/proprietary/lib/libmotext_inf.so:system/lib/libmotext_inf.so \
+    vendor/lge/g4-common/proprietary/lib/libprotobuf-old-full.so:system/lib/libprotobuf-old-full.so \
+    vendor/lge/g4-common/proprietary/lib/libprotobuf-old-lite.so:system/lib/libprotobuf-old-lite.so \
     vendor/lge/g4-common/proprietary/lib/libqmimotext.so:system/lib/libqmimotext.so \
     vendor/lge/g4-common/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/lge/g4-common/proprietary/lib/libuicc.so:system/lib/libuicc.so \
@@ -99,6 +101,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g4-common/proprietary/lib64/liblgmabl.so:system/lib64/liblgmabl.so \
     vendor/lge/g4-common/proprietary/lib64/libmdmcutback.so:system/lib64/libmdmcutback.so \
     vendor/lge/g4-common/proprietary/lib64/libmotext_inf.so:system/lib64/libmotext_inf.so \
+    vendor/lge/g4-common/proprietary/lib64/libprotobuf-old-full.so:system/lib64/libprotobuf-old-full.so \
+    vendor/lge/g4-common/proprietary/lib64/libprotobuf-old-lite.so:system/lib64/libprotobuf-old-lite.so \
     vendor/lge/g4-common/proprietary/lib64/libqdMetaData.so:system/lib64/libqdMetaData.so \
     vendor/lge/g4-common/proprietary/lib64/libqmimotext.so:system/lib64/libqmimotext.so \
     vendor/lge/g4-common/proprietary/lib64/libuicc.so:system/lib64/libuicc.so \
